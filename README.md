@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Petr Švrlanský! 👋<br><br>I'm a passionate **Software Systems** student at the **University of Ostrava**, currently navigating my way through the second year. I love exploring how things work under the hood.<br><br>🚀 About Me<br>- 🎓 Currently finishing my 1st year (Bachelors) at the Faculty of Science, OSU.<br>- 🐍 My primary "go-to" language is **Python**—I love its versatility for personal projects.<br>- ☕ Learning **Java** as part of my academic curriculum.<br>- 🎮 Interested in **Game Modding** (experienced with customizing Minecraft mod-packs).<br>- 🛠️ Currently expanding my skills in programing languages **HTML**, **C++**, **Ruby on Rails** and **PHP**.<br>
+Hi there, I'm Petr Švrlanský! 👋<br><br>I'm a passionate **Software Systems** student at the **University of Ostrava**, currently navigating my way through the second year. I love exploring how things work under the hood.<br><br>🚀 About Me<br>- 🎓 Currently studying 2nd year (Bachelors) at the Faculty of Science, OSU.<br>- 🐍 My primary "go-to" language is **Python**.<br>- ☕ Learning **Java** as part of my academic curriculum.<br>- 🎮 Interested in **Game Modding** (experienced with customizing Minecraft mod-packs).<br>- 🛠️ Currently expanding my skills in programing languages **HTML**, **C++**, **Ruby on Rails** and **PHP**.<br>
 
 
 ## 🌐 Socials:
